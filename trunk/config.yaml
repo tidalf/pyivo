@@ -1,0 +1,11 @@
+logfile: 
+    name: application.log
+    level: 10
+
+exclusions:
+    file: excluded_users
+    regexp:
+
+data:
+    collect_unique: False
+
