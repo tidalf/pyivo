@@ -24,7 +24,7 @@ def  usage():
 
         To get this help write --help 
 
-	(c) 2011, Moscow, Acronis, alexey.ieshin@acronis.com
+	(c) 2011, Moscow, Acronis, alex.ieshin@gmail.com
     """
 
 
